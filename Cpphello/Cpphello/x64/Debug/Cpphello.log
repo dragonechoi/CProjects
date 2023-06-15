@@ -1,0 +1,3 @@
+﻿  Hello.cpp
+D:\CProjects\Cpphello\Cpphello\Hello.cpp(16,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Cpphello.vcxproj -> D:\CProjects\Cpphello\x64\Debug\Cpphello.exe

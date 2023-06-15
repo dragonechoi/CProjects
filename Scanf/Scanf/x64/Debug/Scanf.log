@@ -1,0 +1,4 @@
+﻿  Scanf.c
+D:\CProjects\Scanf\Scanf\Scanf.c(33,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+D:\CProjects\Scanf\Scanf\Scanf.c(30,11): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+D:\CProjects\Scanf\Scanf\Scanf.c(33): error C4700: 초기화되지 않은 'dan' 지역 변수를 사용했습니다.
